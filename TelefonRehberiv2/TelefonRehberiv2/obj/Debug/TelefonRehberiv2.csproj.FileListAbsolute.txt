@@ -1,0 +1,14 @@
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\bin\Debug\TelefonRehberiv2.exe.config
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\bin\Debug\TelefonRehberiv2.exe
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\bin\Debug\TelefonRehberiv2.pdb
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.csprojAssemblyReference.cache
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.Properties.Resources.resources
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.csproj.GenerateResource.cache
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.csproj.CoreCompileInputs.cache
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.exe
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.pdb
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.KisiEkleme2.resources
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.AdresEkleme.resources
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.KisiEkleme.resources
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.YöneticiPaneli.resources
+D:\armi\VS\TelefonRehberiv2\TelefonRehberiv2\obj\Debug\TelefonRehberiv2.AdresEkleme2.resources
